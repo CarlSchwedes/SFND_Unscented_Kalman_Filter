@@ -29,6 +29,7 @@ The red spheres above cars represent the (x,y) lidar detection and the purple li
 ---
 
 ## Other Important Dependencies
+* This code has been tested on Ubuntu 16.04 with pcl-1.7 and vtk-6.2
 * cmake >= 3.5
   * All OSes: [click here for installation instructions](https://cmake.org/install/)
 * make >= 4.1 (Linux, Mac), 3.81 (Windows)
